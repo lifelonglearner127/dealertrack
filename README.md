@@ -1,1 +1,1 @@
-# AutoZoom Chrome Extension
+# DealTracker Chrome Extension
